@@ -1,0 +1,64 @@
+site_name: Вики
+site_url: https://skylvs.me
+theme:
+  name: material
+  language: ru
+  logo: assets/ResonanceTitle.png
+  palette:
+    primary: green
+  font:
+    text: Roboto
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.indexes
+    #    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.tracking
+plugins:
+  - search:
+      lang:
+        - ru
+        - en
+markdown_extensions:
+  - attr_list
+  - meta
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - База:
+      - index.md
+      - О сервере:
+          - base/goal.md
+          - base/philosophy.md
+          - base/principles.md
+      - Правила:
+          - Основные: base/rules/main.md
+          - Моды: base/rules/mods.md
+      - base/decisions.md
+  - Начать:
+      - Аккаунт:
+          - start/register.md
+          - start/skin.md
+      - Игра:
+          - start/install.md
+          - start/optimization.md
+  - Геймплей:
+      - game/client.md
+      - Моды:
+          - game/mods/jei.md
+          - Create:
+              - game/mods/create/index.md
+              - Аддоны: game/mods/create/addons.md
