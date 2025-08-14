@@ -1,9 +1,9 @@
 site_name: Вики
-site_url: https://skylvs.me
+site_url: https://wiki.staki.online
 theme:
   name: material
   language: ru
-  logo: assets/ResonanceTitle.png
+  logo: assets/minecraft_title.png
   palette:
     primary: green
   font:
@@ -47,12 +47,14 @@ nav:
       - Правила:
           - Основные: base/rules/main.md
           - Моды: base/rules/mods.md
+      - Часто задаваемые вопросы: base/faq.md
       - base/decisions.md
   - Начать:
       - Аккаунт:
           - start/register.md
           - start/skin.md
       - Игра:
+          - start/specifications.md
           - start/install.md
           - start/optimization.md
   - Геймплей:
@@ -60,5 +62,8 @@ nav:
       - Моды:
           - game/mods/jei.md
           - Create:
-              - game/mods/create/index.md
-              - Аддоны: game/mods/create/addons.md
+              - Create: game/mods/create/index.md
+              - Crafts And Additions: game/mods/create/crafts-and-additions.md
+              - Copycats+: game/mods/create/copycats-plus.md
+              - Connected: game/mods/create/connected.md
+          - game/mods/animals.md
