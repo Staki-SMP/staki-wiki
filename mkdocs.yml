@@ -61,9 +61,13 @@ nav:
       - game/client.md
       - Моды:
           - game/mods/jei.md
+          - game/mods/voice-chat.md
           - Create:
               - Create: game/mods/create/index.md
               - Crafts And Additions: game/mods/create/crafts-and-additions.md
               - Copycats+: game/mods/create/copycats-plus.md
               - Connected: game/mods/create/connected.md
           - game/mods/animals.md
+          - game/mods/armor.md
+      - Другое:
+          - game/util/grieflogger.md
