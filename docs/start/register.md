@@ -8,13 +8,13 @@ icon: material/account-plus
 
 Так выглядит окно регистрации. Мрачновато. Drasl это наш сервер авторизации / аутенфикации. 
 
-![](/assets/img/register/drasl1.png)
+![](../assets/img/register/drasl1.png)
 
 Вводим никнейм и пароль. Никнейм (как я понял) можно будет изменить в будущем, но по дефолту создаётся аккаунт с указанным при регистрации логином.
 
 **Поле Player UUID оставьте пустым.**
 
-![](/assets/img/register/drasl2.png)
+![](../assets/img/register/drasl2.png)
 
 !!! quote "..."
 
@@ -26,8 +26,8 @@ icon: material/account-plus
 
 Не рекомендую кликать на поля Minecraft Token / API Token. Если уже накликал - ничего страшного, просто перезайди в лаунчер (выйди там из акка и опять войди).
 
-![](/assets/img/register/drasl3.png)
+![](../assets/img/register/drasl3.png)
 
 На будущее: если тебе нужно попасть в аккаунт из главной страницы, то кликни вот сюда.
 
-![](/assets/img/register/drasl4.png)
+![](../assets/img/register/drasl4.png)

@@ -1,8 +1,8 @@
 ---
 icon: material/cat
 ---
-![create-copycats-plus-2.png](../../../assets/img/mods/create-copycats-plus-2.png)
-# ![](../../../assets/img/mods/create-copycats-plus.png){: style="height:40px;width:40px;margin-bottom:5px;vertical-align:middle"} Create: Copycats+
+![create-copycats-plus-2.png](../../../assets/img/mods/create/create-copycats-plus-2.png)
+# ![](../../../assets/img/mods/create/create-copycats-plus.png){: style="height:40px;width:40px;margin-bottom:5px;vertical-align:middle"} Create: Copycats+
 
 Это аддон к Create, который даёт тебе копикэт-блоки. Это особые заготовки, которые могут принимать форму любого блока. 
 То есть не просто выглядеть как он, а реально становиться им по форме.
@@ -23,4 +23,4 @@ icon: material/cat
 
 Вот тут чётко видно: полублок шерсти или ступеньки из стекла лол
 
-![img.png](../../../assets/img/mods/create-copycats-plus-3.png)
+![img.png](../../../assets/img/mods/create/create-copycats-plus-3.png)

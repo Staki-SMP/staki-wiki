@@ -6,7 +6,7 @@ icon: material/tshirt-crew
 
 Не обязательный шаг. Если пропустить, то у тебя будет каждый раз один рандомный скин из дефолтных майнкрафтовских (уебищных).
 
-![](/assets/img/skin/default-skins.jpg)
+![](..../assets/img/skin/default-skins.jpg)
 
 ## Шаг 1. Найди скин
 
@@ -23,7 +23,7 @@ icon: material/tshirt-crew
 
 | Обычный скин                                             | HD Скин (не скачивать)                                   |
 |----------------------------------------------------------|----------------------------------------------------------|
-| ![](/assets/img/skin/skin-1.png){:style="height: 360px"} | ![](/assets/img/skin/skin-2.png){:style="height: 360px"} |
+| ![](../assets/img/skin/skin-1.png){:style="height: 360px"} | ![](../assets/img/skin/skin-2.png){:style="height: 360px"} |
 
 ### Сайты со скинами
 
@@ -37,18 +37,18 @@ icon: material/tshirt-crew
 
 Перейди в Drasl, войди в свой аккаунт. Перейди в своего плеера.
 
-![](/assets/img/skin/drasl-skin-1.png)
+![](../assets/img/skin/drasl-skin-1.png)
 
 Здесь ты увидишь свой майнкрафт профиль (технически он просто чуть отличается от твоего логина, поэтому он в отдельной вкладке).
 Ниже можно найти кнопки `Upload skin` и `Upload cape`. Первая для скина вторая для плаща. Загрузи что тебе надо, затем нажми `Save changes`.
 
 Не забудь выбрать тип скина (Classic - мужской, Slim - женский).
 
-![](/assets/img/skin/drasl-skin-2.png)
+![](../assets/img/skin/drasl-skin-2.png)
 
 Страница обновится, ты увидишь превьюшку как скин будет выглядеть в игре.
 
-![](/assets/img/skin/drasl-skin-3.png)
+![](../assets/img/skin/drasl-skin-3.png)
 
 ## Шаг 3. Перезайди в игру
 
