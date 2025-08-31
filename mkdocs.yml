@@ -49,6 +49,7 @@ nav:
           - Моды: base/rules/mods.md
       - Часто задаваемые вопросы: base/faq.md
       - base/decisions.md
+      - base/donate.md
   - Начать:
       - Аккаунт:
           - start/register.md
@@ -57,6 +58,9 @@ nav:
           - start/specifications.md
           - start/install.md
           - start/optimization.md
+      - Помощь:
+          - Лаги: start/help/lags.md
+          - Баги: start/help/bugs.md
   - Геймплей:
       - game/client.md
       - Моды:
@@ -67,7 +71,12 @@ nav:
               - Crafts And Additions: game/mods/create/crafts-and-additions.md
               - Copycats+: game/mods/create/copycats-plus.md
               - Connected: game/mods/create/connected.md
+          - game/mods/epic-fight.md
           - game/mods/animals.md
           - game/mods/armor.md
       - Другое:
           - game/util/grieflogger.md
+  - Полезности:
+      - Карта: utility/map.md
+      - utility/static-file-server.md
+      - utility/stream-server.md
