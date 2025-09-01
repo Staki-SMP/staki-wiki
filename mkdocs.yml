@@ -36,17 +36,20 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - База:
       - index.md
       - О сервере:
-          - base/goal.md
+          - base/motivation.md
           - base/philosophy.md
           - base/principles.md
       - Правила:
           - Основные: base/rules/main.md
           - Моды: base/rules/mods.md
+          - Коммуникация: base/rules/communication.md
       - Часто задаваемые вопросы: base/faq.md
       - base/decisions.md
       - base/donate.md
@@ -71,7 +74,7 @@ nav:
               - Crafts And Additions: game/mods/create/crafts-and-additions.md
               - Copycats+: game/mods/create/copycats-plus.md
               - Connected: game/mods/create/connected.md
-          - game/mods/epic-fight.md
+          - Epic Fight: game/mods/epic-fight.md
           - game/mods/animals.md
           - game/mods/armor.md
       - Другое:
