@@ -2,10 +2,10 @@
 icon: material/cog
 ---
 
-![](../../../assets/img/mods/create/Create-Mod-1.jpg)
+![](../../../../assets/img/mods/create/Create-Mod-1.jpg)
 
 
-# ![](../../../assets/img/mods/create/create-mod.png){: style="height:40px;width:40px;margin-bottom:5px;vertical-align:middle"} Create
+# ![](../../../../assets/img/mods/create/create-mod.png){: style="height:40px;width:40px;margin-bottom:5px;vertical-align:middle"} Create
 Это один из самых мощных модов для майнкрафта, если тебе нравится не просто копать ямки и строить коробки, а делать механизмы, которые реально что-то делают.
 
 Create - это про шестерёнки, ремни, паровые двигатели, автоматизацию и красивые движущиеся штуки. Можно сделать мельницу, завод по переработке ресурсов или вообще гигантский поезд. И всё это в рамках выживания, хоть и имбалансно немного.
@@ -62,7 +62,7 @@ Create - это про шестерёнки, ремни, паровые двиг
 
 Это так называемые пондеры (или по-русски - "размышления", тупой перевод). Короче говоря это по сути интерактивный гайд по тому или иному блоку. Ахуенно.
 
-![](../../../assets/img/mods/create/create-ponder.webp)
+![](../../../../assets/img/mods/create/create-ponder.webp)
 
 ## Аддоны (дополнения)
 

@@ -1,7 +1,7 @@
 ---
 icon: material/generator-portable
 ---
-![create-crafts-and-additions-items.png](../../../assets/img/mods/create/create-crafts-and-additions-items.png)
+![create-crafts-and-additions-items.png](../../../../assets/img/mods/create/create-crafts-and-additions-items.png)
 # Create: Crafts And Additions
 
 **Это мод-аддон к Create, который добавляет электричество, батарейки и электроприблуды,** но всё в стилистике Create - никаких проводов из индастриал крафта и 500 видов микросхем. 

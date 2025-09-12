@@ -48,8 +48,8 @@ nav:
           - base/principles.md
       - Правила:
           - Основные: base/rules/main.md
-          - Моды: base/rules/mods.md
           - Коммуникация: base/rules/communication.md
+          - Моды: base/rules/mods.md
       - Часто задаваемые вопросы: base/faq.md
       - base/decisions.md
       - base/donate.md
@@ -67,16 +67,19 @@ nav:
   - Геймплей:
       - game/client.md
       - Моды:
-          - game/mods/jei.md
-          - game/mods/voice-chat.md
+          - game/mods/main/jei.md
+          - game/mods/main/voice-chat.md
           - Create:
-              - Create: game/mods/create/index.md
-              - Crafts And Additions: game/mods/create/crafts-and-additions.md
-              - Copycats+: game/mods/create/copycats-plus.md
-              - Connected: game/mods/create/connected.md
-          - Epic Fight: game/mods/epic-fight.md
-          - game/mods/animals.md
-          - game/mods/armor.md
+              - Create: game/mods/main/create/index.md
+              - Crafts And Additions: game/mods/main/create/crafts-and-additions.md
+              - Copycats+: game/mods/main/create/copycats-plus.md
+              - Connected: game/mods/main/create/connected.md
+              - Deco: game/mods/main/create/deco.md
+              - Diesel Generators: game/mods/main/create/diesel-generators.md
+              - Enchantment Industry: game/mods/main/create/enchantment-industry.md
+          - Epic Fight: game/mods/main/epic-fight.md
+          - game/mods/main/animals.md
+          - game/mods/main/armor.md
       - Другое:
           - game/util/grieflogger.md
   - Полезности:

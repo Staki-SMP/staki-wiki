@@ -2,9 +2,9 @@
 icon: material/sword-cross 
 ---
 
-![ef-background.png](../../assets/img/mods/ef/ef-background.png)
+![ef-background.png](../../../assets/img/mods/ef/ef-background.png)
 
-# ![Epic Fight Logo](../../assets/img/mods/ef/ef-logo.png){: style="height:80px;width:80px;margin-bottom:5px;vertical-align:middle"} Epic Fight
+# ![Epic Fight Logo](../../../assets/img/mods/ef/ef-logo.png){: style="height:80px;width:80px;margin-bottom:5px;vertical-align:middle"} Epic Fight
 
 Epic Fight — это мод, который полностью меняет бой в майне: новые анимации, взаимодействия, стойки, атаки и стамины.
 Всё выглядит как полноценная экшен-боевая система с кастомными мувсетами под каждое оружие.

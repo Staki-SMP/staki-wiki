@@ -2,7 +2,7 @@
 icon: material/cogs
 ---
 
-![create-connected.png](../../../assets/img/mods/create/create-connected.png)
+![create-connected.png](../../../../assets/img/mods/create/create-connected.png)
 
 # Create: Connected
 

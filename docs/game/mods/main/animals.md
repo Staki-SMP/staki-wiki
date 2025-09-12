@@ -13,7 +13,7 @@ icon: material/paw
 
 ### Аллигатор
 
-![alligator.png](../../assets/img/animals/alligator.png)
+![alligator.png](../../../assets/img/animals/alligator.png)
 
 Аллигатор — нейтральный обитатель болот и похожих на них биомов. Хищник, который питается другими болотными животными.
 
@@ -32,7 +32,7 @@ icon: material/paw
 
 ### Бабочки
 
-![butterfly.png](../../assets/img/animals/butterfly.png)
+![butterfly.png](../../../assets/img/animals/butterfly.png)
 
 Бабочки — летающие мирные мобы, встречающиеся в лесах, на равнинах и в болотах. Подобно пчёлам, они опыляют цветы и сельхозкультуры, но не дают побочных продуктов вроде сот.
 
@@ -53,7 +53,7 @@ icon: material/paw
 
 ### Басс
 
-![bass.png](../../assets/img/animals/bass.png)
+![bass.png](../../../assets/img/animals/bass.png)
 
 Бас — мирная водная рыба, обитающая в болотах, болотоподобных биомах и реках. Является источником сырого баса.
 
@@ -74,7 +74,7 @@ icon: material/paw
 
 ### Бегемот
 
-![hippo.png](../../assets/img/animals/hippo.png)
+![hippo.png](../../../assets/img/animals/hippo.png)
 
 Бегемоты — массивные обитатели саванн, которых можно встретить у источников воды или прямо в них.
 
@@ -118,7 +118,7 @@ icon: material/paw
 
 ### Ворона
 
-![crow.png](../../assets/img/animals/crow.png)
+![crow.png](../../../assets/img/animals/crow.png)
 
 Вороны — летающие мобы, которых часто можно увидеть в небе. Они охотно подбирают упавшую еду и портят урожай, ворую растения с грядок.
 
@@ -154,7 +154,7 @@ icon: material/paw
 
 ### Газель
 
-![gazelle.png](../../assets/img/animals/gazelle.png)
+![gazelle.png](../../../assets/img/animals/gazelle.png)
 
 Газели — мирные животные, которых можно встретить в больших стадах.
 
@@ -170,7 +170,7 @@ icon: material/paw
 
 ### Гигантский кальмар
 
-![giant-squid.png](../../assets/img/animals/giant-squid.png)
+![giant-squid.png](../../../assets/img/animals/giant-squid.png)
 
 Гигантский кальмар — опасный морской моб, обитающий только в воде. На суше быстро начинает умирать.
 
@@ -194,7 +194,7 @@ icon: material/paw
 
 ### Горилла
 
-![gorilla.png](../../assets/img/animals/gorilla.png)
+![gorilla.png](../../../assets/img/animals/gorilla.png)
 
 Гориллы — крупные обезьяны, обитающие группами. Каждое стадо возглавляет серебристоспинный самец.
 
@@ -228,7 +228,7 @@ icon: material/paw
 
 ### Гребневик
 
-![comb-jelly.png](../../assets/img/animals/comb-jelly.png)
+![comb-jelly.png](../../../assets/img/animals/comb-jelly.png)
 
 Гребневики — морские существа, которые могут жить только в воде. На суше начинают постепенно умирать.
 
@@ -243,7 +243,7 @@ icon: material/paw
 
 ### Гремучая змея
 
-![rattlesnake.png](../../assets/img/animals/rattlesnake.png)
+![rattlesnake.png](../../../assets/img/animals/rattlesnake.png)
 
 Гремучие змеи — оборонительные мобы, которые нападают только при слишком близком приближении.
 
@@ -262,7 +262,7 @@ icon: material/paw
 
 ### Енот
 
-![raccoon.png](../../assets/img/animals/raccoon.png)
+![raccoon.png](../../../assets/img/animals/raccoon.png)
 
 Еноты — хитрые и игривые мобы, которые умеют красть предметы и даже мыть еду в воде.
 
@@ -308,7 +308,7 @@ icon: material/paw
 
 ### Жираф
 
-![giraffe.png](../../assets/img/animals/giraffe.png)
+![giraffe.png](../../../assets/img/animals/giraffe.png)
 
 Жирафы — высокие обитатели саванн, встречающиеся группами по 2–4 особи.
 
@@ -330,7 +330,7 @@ icon: material/paw
 
 ### Зебра
 
-![zebra.png](../../assets/img/animals/zebra.png)
+![zebra.png](../../../assets/img/animals/zebra.png)
 
 Зебры — обитатели саванн, встречающиеся группами по 2–4 особи.
 
@@ -347,7 +347,7 @@ icon: material/paw
 
 ### Змея
 
-![snake.png](../../assets/img/animals/snake.png)
+![snake.png](../../../assets/img/animals/snake.png)
 
 Змеи встречаются в одиночку в разных биомах — лесах, равнинах и болотах. Их внешний вид зависит от места обитания.
 
@@ -369,7 +369,7 @@ icon: material/paw
 
 ### Кабан
 
-![boar.png](../../assets/img/animals/boar.png)
+![boar.png](../../../assets/img/animals/boar.png)
 
 Кабаны — пассивные мобы, обитающие в саваннах и лесах. В отличие от свиней, на них нельзя оседлать седло. Являются источником свинины и кожи.
 
@@ -397,7 +397,7 @@ icon: material/paw
 
 ### Кайман
 
-![caiman.png](../../assets/img/animals/caiman.png)
+![caiman.png](../../../assets/img/animals/caiman.png)
 
 Кайманы — полуводные хищники, которые могут жить как в воде, так и на суше. При атаке они отвечают мощным укусом.
 
