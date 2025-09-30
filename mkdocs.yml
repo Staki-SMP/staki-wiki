@@ -70,8 +70,8 @@ nav:
   - Геймплей:
       - game/client.md
       - Моды:
-          - game/mods/main/jei.md
-          - game/mods/main/voice-chat.md
+          - JEI: game/mods/main/jei.md
+          - Voice Chat: game/mods/main/voice-chat.md
           - Create:
               - Create: game/mods/main/create/index.md
               - Crafts And Additions: game/mods/main/create/crafts-and-additions.md
@@ -80,12 +80,28 @@ nav:
               - Deco: game/mods/main/create/deco.md
               - Diesel Generators: game/mods/main/create/diesel-generators.md
               - Enchantment Industry: game/mods/main/create/enchantment-industry.md
+              - Escalated: game/mods/main/create/escalated.md
+              - Farmers' Delight: game/mods/main/create/central-kitchen.md
+              - Mob Spawners: game/mods/main/create/mob-spawners.md
+              - Numismatics: game/mods/main/create/numismatics.md
+              - Ore Excavation: game/mods/main/create/ore-excavation.md
+              - Pattern Schematics: game/mods/main/create/pattern-schematics.md
+              - Power Loader: game/mods/main/create/power-loader.md
+              - Steam 'n' Rails: game/mods/main/create/steam-n-rails.md
           - Epic Fight: game/mods/main/epic-fight.md
           - game/mods/main/animals.md
           - game/mods/main/armor.md
+          - game/mods/main/chipped.md
+          - game/mods/main/exposure.md
+          - game/mods/main/furniture.md
+          - game/mods/main/supplementaries.md
+          - game/mods/main/waterframes.md
+          - game/mods/main/zetter.md
+          - game/mods/main/tacz.md
       - Другое:
           - game/util/grieflogger.md
   - Полезности:
+      - Тестовый сервер: utility/test-server.md
       - Карта: utility/map.md
       - utility/static-file-server.md
       - utility/stream-server.md
