@@ -25,4 +25,4 @@ icon: material/sofa-single
 
 Тоже декорации, но теперь для наружней части поездов
 
-![img_2.png](../../../../assets/img/mods/create/decorations/img_2.pngs
+![img_2.png](../../../../assets/img/mods/create/decorations/img_2.png)
