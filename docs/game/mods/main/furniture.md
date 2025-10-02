@@ -84,3 +84,15 @@ icon: material/sofa-single
 
 ![img_6.png](../../../assets/img/mods/furniture/img_6.png)
 ![img_5.png](../../../assets/img/mods/furniture/img_5.png)
+
+## Comforts
+
+Добавляет лежаки и гамаки. Можно спать.
+
+## Diagonal Fences / Walls / Windows
+
+Позволяет строить любые заборы стены и окна по диагонали.
+
+## Infinity Buttons
+
+Добавляет кучу разных редстоун кнопок.
