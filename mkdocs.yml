@@ -77,7 +77,6 @@ nav:
               - Crafts And Additions: game/mods/main/create/crafts-and-additions.md
               - Copycats+: game/mods/main/create/copycats-plus.md
               - Connected: game/mods/main/create/connected.md
-              - Deco: game/mods/main/create/deco.md
               - Diesel Generators: game/mods/main/create/diesel-generators.md
               - Enchantment Industry: game/mods/main/create/enchantment-industry.md
               - Escalated: game/mods/main/create/escalated.md
@@ -88,6 +87,7 @@ nav:
               - Pattern Schematics: game/mods/main/create/pattern-schematics.md
               - Power Loader: game/mods/main/create/power-loader.md
               - Steam 'n' Rails: game/mods/main/create/steam-n-rails.md
+              - Декорации: game/mods/main/create/decorations.md
           - Epic Fight: game/mods/main/epic-fight.md
           - game/mods/main/animals.md
           - game/mods/main/armor.md
