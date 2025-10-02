@@ -1,3 +1,9 @@
+---
+icon: material/globe-model
+---
+
+![supplementaries.png](../../../assets/img/mods/supplementaries.png)
+
 # Supplementaries
 
 Мод, добавляющий множество функциональных и декоративных блоков, предметов и полезных механик. Ниже — краткое описание возможностей мода, сгруппированных по тематикам.

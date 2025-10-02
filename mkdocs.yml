@@ -81,7 +81,7 @@ nav:
               - Diesel Generators: game/mods/main/create/diesel-generators.md
               - Enchantment Industry: game/mods/main/create/enchantment-industry.md
               - Escalated: game/mods/main/create/escalated.md
-              - Farmers' Delight: game/mods/main/create/central-kitchen.md
+              - Farmer's Delight: game/mods/main/create/farmers-delight.md
               - Mob Spawners: game/mods/main/create/mob-spawners.md
               - Numismatics: game/mods/main/create/numismatics.md
               - Ore Excavation: game/mods/main/create/ore-excavation.md
@@ -94,6 +94,7 @@ nav:
           - game/mods/main/chipped.md
           - game/mods/main/exposure.md
           - game/mods/main/furniture.md
+          - Farmer's Delight: game/mods/main/farmers-delight.md
           - game/mods/main/supplementaries.md
           - game/mods/main/waterframes.md
           - game/mods/main/zetter.md
