@@ -91,14 +91,13 @@ nav:
           - Epic Fight: game/mods/main/epic-fight.md
           - game/mods/main/animals.md
           - game/mods/main/armor.md
-          - game/mods/main/chipped.md
-          - game/mods/main/exposure.md
+          - TaCZ: game/mods/main/tacz.md
           - Декорации: game/mods/main/furniture.md
           - Farmer's Delight: game/mods/main/farmers-delight.md
           - game/mods/main/supplementaries.md
           - game/mods/main/waterframes.md
+          - game/mods/main/exposure.md
           - game/mods/main/zetter.md
-          - game/mods/main/tacz.md
       - Другое:
           - game/util/grieflogger.md
   - Полезности:
