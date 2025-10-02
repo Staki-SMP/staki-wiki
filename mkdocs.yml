@@ -89,11 +89,15 @@ nav:
               - Steam 'n' Rails: game/mods/main/create/steam-n-rails.md
               - Декорации: game/mods/main/create/decorations.md
           - Epic Fight: game/mods/main/epic-fight.md
-          - game/mods/main/animals.md
           - game/mods/main/armor.md
           - TaCZ: game/mods/main/tacz.md
-          - Декорации: game/mods/main/furniture.md
           - Farmer's Delight: game/mods/main/farmers-delight.md
+          - Декорации: game/mods/main/furniture.md
+          - game/mods/main/animals.md
+          - Let's Do:
+              - Vinery: game/mods/main/lets-do/vinery.md
+              - Brewery: game/mods/main/lets-do/brewery.md
+              - Beachparty: game/mods/main/lets-do/beachparty.md
           - game/mods/main/supplementaries.md
           - game/mods/main/waterframes.md
           - game/mods/main/exposure.md
