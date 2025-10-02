@@ -94,6 +94,8 @@ nav:
           - Farmer's Delight: game/mods/main/farmers-delight.md
           - Декорации: game/mods/main/furniture.md
           - game/mods/main/animals.md
+          - ComputerCraft: game/mods/main/computercraft.md
+          - SecurityCraft: game/mods/main/securitycraft.md
           - Let's Do:
               - Vinery: game/mods/main/lets-do/vinery.md
               - Brewery: game/mods/main/lets-do/brewery.md
