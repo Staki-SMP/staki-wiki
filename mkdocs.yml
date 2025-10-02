@@ -98,6 +98,8 @@ nav:
           - game/mods/main/waterframes.md
           - game/mods/main/exposure.md
           - game/mods/main/zetter.md
+      - Вспомогательное:
+          - game/mods/secondary/optional.md
       - Другое:
           - game/util/grieflogger.md
   - Полезности:
