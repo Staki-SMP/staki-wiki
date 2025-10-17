@@ -112,7 +112,4 @@ nav:
       - Другое:
           - game/util/grieflogger.md
   - Полезности:
-      - Тестовый сервер: utility/test-server.md
       - Карта: utility/map.md
-      - utility/static-file-server.md
-      - utility/stream-server.md

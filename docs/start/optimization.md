@@ -99,9 +99,16 @@ table th:nth-of-type(2) {
 **Distant Horizons - это один из самых ёбнутых графических модов**, который пиздецки увеличивает дальность прорисовки мира
 за счёт ебнутых алгоритмов LOD, при этом не жрёт твою видеокарту как это делает ванильный майнкрафт.
 
-| Distant Horizons - ВЫКЛ    | ![img_2.png](../assets/img/graphics/no-distant-horizons.png) |
-|----------------------------|--------------------------------------------------------------|
-| **Distant Horizons - ВКЛ** | ![img_1.png](../assets/img/graphics/distant-horizons.png)    |
+<style>
+  table th:nth-of-type(1) {
+    width: 70%;
+    padding: 0;
+    text-align: center;
+  }
+</style>
+| ![img_2.png](../assets/img/graphics/no-distant-horizons.png) Distant Horizons - ВЫКЛ |   
+|--------------------------------------------------------------------------------------|
+| ![img_1.png](../assets/img/graphics/distant-horizons.png) **Distant Horizons - ВКЛ** |   
 
 Если ты хочешь играть с большой прорисовкой, оставь его включенным, но его нужно настроить.
 
@@ -122,9 +129,16 @@ table th:nth-of-type(2) {
 
 Один из самых прожорливых это ресурс пак на листья. По умолчанию включен. Делает листву объемнее и красивее. Если деревья грузят комп - выключай.
 
-| **Объемные листья - ВЫКЛ** | ![leaves-disabled.png](../assets/img/graphics/leaves-disabled.png) |
-|----------------------------|--------------------------------------------------------------------|
-| **Объемные листья - ВКЛ**  | ![leaves-enabled.png](../assets/img/graphics/leaves-enabled.png)   |
+<style>
+  table th:nth-of-type(1) {
+    width: 70%;
+    padding: 0;
+    text-align: center;
+  }
+</style>
+| ![leaves-disabled.png](../assets/img/graphics/leaves-disabled.png) **Объемные листья - ВЫКЛ** | 
+|-----------------------------------------------------------------------------------------------|
+| ![leaves-enabled.png](../assets/img/graphics/leaves-enabled.png) **Объемные листья - ВКЛ**    |  
 
 Всего их 3. Важно: CullLeaves SmartLeaves делает листву красивее если ты используешь мод CullLeaves.
 Мод CullLeaves по умолчанию выключен, находится в списке [необязательных](../game/mods/secondary/optional.md)
