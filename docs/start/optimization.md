@@ -42,12 +42,25 @@ icon: material/lightning-bolt
 
 На сборке стоит 4 разных шейдера пропатченных Euphoria + Colowheel + Distant Horizons. Вам это ни о чем не говорит поэтому вот сравнение
 
-| Без шейдеров             | ![no_shaders.png](../assets/img/graphics/no_shaders.png)                             |
-|--------------------------|--------------------------------------------------------------------------------------|
-| Complementary Reimagined | ![complementary_reimagined.png](../assets/img/graphics/complementary_reimagined.png) |
-| Complementary Unbound    | ![complementary_ounbound.png](../assets/img/graphics/complementary_unbound.png)      |
-| BSL                      | ![bsl.png](../assets/img/graphics/bsl.png)                                           |
-| Bliss                    | ![bliss.png](../assets/img/graphics/bliss.png)                                       |
+<style>
+  table th:nth-of-type(1) {
+    width: 70%;
+    padding: 0;
+    text-align: center;
+  }
+table th:nth-of-type(2) {
+    width: 25%;
+  }
+</style>
+| ![img_7.png](../assets/img/graphics/shaders/img_7.png) Без шейдеров          | <div style="width:20em">Обычный майнкрафт лук</div>                                                                                                                                                                                               |
+|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![img.png](../assets/img/graphics/shaders/img.png)  Complementary Reimagined | Шейдеры в ванильной стилистике. Отличный вариант для базовой игры. Для компов по-слабее ставь версию **без Euphoria Patches**. Если поставил версию с эйфорией, поройся в настройках эйфории и поставь "Много звёзд". Ночью будет красиво ахуеешь |
+| ![img_1.png](../assets/img/graphics/shaders/img_1.png) Complementary Unbound | Другая стилистика Complementary шейдеров. Как поменять читай ниже. Реалистичнее вода и облака. В остальном то же самое что и шейдеры выше                                                                                                         |
+| ![img_3.png](../assets/img/graphics/shaders/img_3.png) BSL                   | Прикольные шейдеры с более мрачным, тёмным сетапом в духе фэнтези. Рекомендую настроить под себя                                                                                                                                                  |
+| ![img_2.png](../assets/img/graphics/shaders/img_2.png) Bliss                 | Похожи на BSL внешне, но вообще другие внутри. Так же рекомендую порыться в настройках                                                                                                                                                            |
+| ![img_4.png](../assets/img/graphics/shaders/img_4.png) Eclipse Unstable      | Улучшенная версия Bliss с красивой водой и облаками, но вроде как нестабильная. Не гарантирую работоспособность и отсутствие ошибок. Настраивай под себя если захотелось                                                                          |
+| ![img_5.png](../assets/img/graphics/shaders/img_5.png) Glimmer               | Шейдеры для компов по-слабее. Как по мне выглядят немного вырвиглазно, но играбельно. Нужно как-то настроить под себя. Хоть я бы наверное на слабом компе на крайняк включил Complementary с низкими или очень низкими настройками.               |
+| ![img_6.png](../assets/img/graphics/shaders/img_6.png) Rethinking Voxels     | Улучшенная версия Complementary с RTX-like освещением. Требует сильного компа. Советую отключить динамическое освещение Lucent в списке необязательных модов.                                                                                     |
 
 **От себя рекомендую классический вариант - Complementary в стилистике Reimagined**. Это vanilla-like шейдеры которые просто делают майнкрафт красивее, а не реалистичнее.
 
@@ -69,7 +82,7 @@ icon: material/lightning-bolt
 
 ![shader-settings-2.png](../assets/img/graphics/shader-settings-2.png)
 
-Для Complementary, например, можешь переключать настройку `Profile`. Рекомендую поставить на Medium или High.
+Для Complementary, например, можешь переключать настройку `Profile`. Рекомендую поставить на Medium (Средний). Если комп по-слабее, то Low (низкий) или Very low (очень низкий)
 
 ![shader-settings-3.png](../assets/img/graphics/shader-settings-3.png)
 
@@ -101,17 +114,26 @@ icon: material/lightning-bolt
     - 128: позволяет увидеть края нашей карты находясь на спавне
     - 256: позволяет увидеть карту полностью, находясь в любой её точке
 
+После первого включения у тебя будут прогружаться дальние чанки, поэтому ФПС может быть низкий. Подожди минут 10-20 и всё пройдет.
+
 ### Ресурс паки
 
 На нашей сборке есть ресурс паки. Крутые и не очень. Ты можешь их включить / выключить если хочется.
 
 Один из самых прожорливых это ресурс пак на листья. По умолчанию включен. Делает листву объемнее и красивее. Если деревья грузят комп - выключай.
 
-![leaves-resource-packs.png](../assets/img/graphics/leaves-resource-packs.png)
-
 | **Объемные листья - ВЫКЛ** | ![leaves-disabled.png](../assets/img/graphics/leaves-disabled.png) |
 |----------------------------|--------------------------------------------------------------------|
 | **Объемные листья - ВКЛ**  | ![leaves-enabled.png](../assets/img/graphics/leaves-enabled.png)   |
+
+Всего их 3. Важно: CullLeaves SmartLeaves делает листву красивее если ты используешь мод CullLeaves.
+Мод CullLeaves по умолчанию выключен, находится в списке [необязательных](../game/mods/secondary/optional.md)
+и нужен для оптимизации листвы. 
+
+**Я его рекомендую включить если ты используешь Better Leaves**. Перейди в Настройки Графики -
+Performance - Включен Cull Leaves
+
+![leaves-resource-packs.png](../assets/img/graphics/leaves-resource-packs.png)
 
 
 ---
