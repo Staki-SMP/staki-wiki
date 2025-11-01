@@ -38,8 +38,6 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-extra:
-  analytics: custom
 extra_css:
   - stylesheets/extra.css
 
