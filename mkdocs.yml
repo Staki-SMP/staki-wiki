@@ -69,6 +69,7 @@ nav:
       - Помощь:
           - Лаги: start/help/lags.md
           - Баги: start/help/bugs.md
+          - Удаление: start/help/reinstall.md
   - Геймплей:
       - game/client.md
       - Моды:
