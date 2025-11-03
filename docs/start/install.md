@@ -10,6 +10,11 @@ icon: material/download
 Свой лаунчер будь то официальный / MultiMC / Prism использовать нельзя.
 
 **Скачать лаунчер можно [по этой ссылке](https://files.staki.online/mc/Staki%20SMP%20Launcher.exe).** 
+
+Версия для MacOS x64 (Intel): [здесь](https://files.staki.online/mc/Staki%20SMP%20Launcher-setup-1.0.0-x64.dmg)
+
+Версия для MacOS Arm64 (Apple): [здесь](https://files.staki.online/mc/Staki%20SMP%20Launcher-setup-1.0.0-arm64.dmg)
+
 Последующие обновления на лаунчер, если и будут, то будут опубликованы на дискорд сервере.
 
 Лаунчер - portable программа. Это значит, что ему не нужна установка. 
